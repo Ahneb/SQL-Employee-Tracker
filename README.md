@@ -1,7 +1,7 @@
 # SQL-Employee-Tracker
 [![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://choosealicense.com/licenses/mit)
 ## Description
-This is a CLI application that can be used to manage a database of employees using SQL. Using inquirer, you are prompted through questions that allow you to view `departments`, `roles`, and `employees'. There is also the ability to add additional departments, roles and employees. Additional functionality includes the ability to update an employee's role, and manager. This makes use of a series of nested prompts. The prompts also go through a few checks to ensure that an answer is being given as well as the option to leave the application at anytime by typing `esc`.
+This is a CLI application that can be used to manage a database of employees using SQL. Using inquirer, you are prompted through questions that allow you to view `departments`, `roles`, and `employees`. There is also the ability to add additional departments, roles and employees. Additional functionality includes the ability to update an employee's role, and manager. This makes use of a series of nested prompts. The prompts also go through a few checks to ensure that an answer is being given as well as the option to leave the application at anytime by typing `esc`.
 
 [Link to Instructional Video Guide](https://www.youtube.com/watch?v=GF5WDadRGMs)
 
